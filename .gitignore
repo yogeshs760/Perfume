@@ -1,3 +1,4 @@
-/data.json
-/dta.json
-/pra.py
+# Gemini-Challenge ke alawa baaki sab ignore karo
+*
+!Gemini-Challenge/
+!Gemini-Challenge/**
